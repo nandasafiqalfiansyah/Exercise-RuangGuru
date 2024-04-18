@@ -29,7 +29,7 @@ To report a new issue, follow these steps:
 5. Assign appropriate labels to categorize the issue (e.g., bug, enhancement, question).
 6. Click on the "Submit new issue" button to create the issue.
 
-Your feedback is valuable to us, and we appreciate your help in improving Dummy API's Faster!
+Your feedback is valuable to us, and we appreciate your help in improving!
 
 ## License
 
