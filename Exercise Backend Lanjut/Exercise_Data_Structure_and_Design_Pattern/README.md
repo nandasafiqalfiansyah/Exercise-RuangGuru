@@ -1,9 +1,5 @@
 # Exercise Data Structure and Design Pattern
 
-Berikut adalah contoh template README.md untuk proyek Anda:
-
-# Latihan Struktur Data dan Pola Desain
-
 Proyek ini menggambarkan contoh implementasi konsep struktur data dan pola desain dalam Go.
 
 ## Struktur Proyek
